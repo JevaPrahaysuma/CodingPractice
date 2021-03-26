@@ -1,7 +1,6 @@
 import java.util.*;
 public class HitungKarakter{
 
-
      public static void main(String []args){
         String a = "abcdhacckl";
         String temp = "";
